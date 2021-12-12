@@ -40,4 +40,4 @@ now we use the Google Directions API in Vacation_Itinerary to create a travel it
 
 ### Summary Based on the results
 
-After reviewing and upgrading our code we decided to add weather description to make it easier to decide where to travel and by showing a route map we showed the route between four possible cities which could be proper to choose based on the chosen weather. I think next upgrade could be client choosing four city and our app give them the proper route based on their chosen weather.   
+After reviewing and upgrading our code we decided to add weather description to make it easier to decide where to travel. Then by a route map we showed the route between four possible cities based on the chosen weather. I think next upgrade could be client choose four cities and our app give them the proper route based on their chosen weather.   
